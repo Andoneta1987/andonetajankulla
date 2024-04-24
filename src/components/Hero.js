@@ -26,7 +26,7 @@ const Hero =() => {
          </div>
          <div class="sm:w-1/2" role="img">
         <img class=" px-20 h-50 w-80 object-cover object-center sm:w-50 rounded-full hover:shadow-lg transform-transition "
-          src="images/ME-removebg-preview.png"
+          src="images/me.png"
           alt="Portfolio"
         />
       </div>      
