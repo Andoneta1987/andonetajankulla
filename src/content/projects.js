@@ -3,7 +3,7 @@ export const projects=[
         title:"HTML/CSS",
         subtitle:"User Login",
         description:"Html with implementation of css",
-        image:"images/Css.img.png",
+        image:"./images/Css.img.png",
         link:"/",
     },
     {
