@@ -26,7 +26,7 @@ const Hero =() => {
          </div>
          <div class="sm:w-1/2" role="img">
         <img class=" px-20 h-50 w-80 object-cover object-center sm:w-50 rounded-full hover:shadow-lg transform-transition "
-          src="/me.png"
+          src="https://www.pexels.com/photo/portfolio-text-printed-on-multicolored-background-18833779/"
           alt="Portfolio"
         />
       </div>      
