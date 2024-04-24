@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/andonetajankulla/static/css/main.4c40d3c5.css",
+    "main.js": "/andonetajankulla/static/js/main.478ab29d.js",
+    "static/js/787.a7d79463.chunk.js": "/andonetajankulla/static/js/787.a7d79463.chunk.js",
+    "index.html": "/andonetajankulla/index.html",
+    "main.4c40d3c5.css.map": "/andonetajankulla/static/css/main.4c40d3c5.css.map",
+    "main.478ab29d.js.map": "/andonetajankulla/static/js/main.478ab29d.js.map",
+    "787.a7d79463.chunk.js.map": "/andonetajankulla/static/js/787.a7d79463.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c40d3c5.css",
+    "static/js/main.478ab29d.js"
+  ]
+}
