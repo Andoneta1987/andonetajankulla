@@ -26,7 +26,7 @@ const Hero =() => {
          </div>
          <div class="sm:w-1/2" role="img">
         <img class=" px-20 h-50 w-80 object-cover object-center sm:w-50 hover:shadow-lg transform-transition "
-          src="https://unsplash.com/photos/a-macbook-with-lines-of-code-on-its-screen-on-a-busy-desk-m_HRfLhgABo"
+          src="https://github.com/Andoneta1987/andonetajankulla/blob/main/public/images/me.png"
           alt="Portfolio"
         />
       </div>      
